@@ -1,0 +1,23 @@
+[Part of the day]
+早上 Zǎoshang,Early Morning,https://translate.google.co.uk/?um=1&ie=UTF-8&hl=en&client=tw-ob#zh-CN/en/%E4%B8%8A%E5%8D%88
+上午 Shàngwǔ,Morning,https://translate.google.co.uk/?um=1&ie=UTF-8&hl=en&client=tw-ob#zh-CN/en/%E4%B8%8A%E5%8D%88
+中午 Zhōngwǔ, Noon,https://translate.google.co.uk/?um=1&ie=UTF-8&hl=en&client=tw-ob#zh-CN/en/%E4%B8%AD%E5%8D%88
+下午 Xiàwǔ, Afternoon, https://translate.google.co.uk/?um=1&ie=UTF-8&hl=en&client=tw-ob#zh-CN/en/%E4%B8%8B%E5%8D%88
+晚上 Wǎnshàng, Evening, https://translate.google.co.uk/?um=1&ie=UTF-8&hl=en&client=tw-ob#zh-CN/en/%E6%99%9A%E4%B8%8A
+
+[parts to tell the time]
+点 Diǎn, Hour, https://translate.google.co.uk/?um=1&ie=UTF-8&hl=en&client=tw-ob#zh-CN/en/%E7%82%B9
+分 Fēn, Minute, https://translate.google.co.uk/?um=1&ie=UTF-8&hl=en&client=tw-ob#zh-CN/en/%E5%88%86
+刻 Kè, Quarter, https://translate.google.co.uk/?um=1&ie=UTF-8&hl=en&client=tw-ob#zh-CN/en/%E5%88%BB
+
+[Statements with time]
+明天见 Míngtiān jiàn, See you tomorrow, https://translate.google.co.uk/?um=1&ie=UTF-8&hl=en&client=tw-ob#zh-CN/en/%E6%98%8E%E5%A4%A9%E8%A7%81
+几点 Jǐ diǎn, What time, https://translate.google.co.uk/?um=1&ie=UTF-8&hl=en&client=tw-ob#zh-CN/en/%E5%87%A0%E7%82%B9
+我五点上班 Wǒ wǔ diǎn shàngbān, I (at 5 hours) go to work
+早上好 Zǎoshang hǎo, Good morning, https://translate.google.co.uk/?um=1&ie=UTF-8&hl=en&client=tw-ob#zh-CN/en/%E6%97%A9%E4%B8%8A%E5%A5%BD
+下午好 Xiàwǔ hǎo, Good afternoon, https://translate.google.co.uk/?um=1&ie=UTF-8&hl=en&client=tw-ob#zh-CN/en/%E4%B8%8B%E5%8D%88%E5%A5%BD
+
+
+[Sample times]
+下午两点二十四分 Xiàwǔ liǎng diǎn èrshísì fēn, 2.24pm, https://translate.google.co.uk/?um=1&ie=UTF-8&hl=en&client=tw-ob#zh-CN/en/%E4%B8%8B%E5%8D%88%E4%B8%A4%E7%82%B9%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%88%86
+早上七点二十五 Zǎoshang qī diǎn èrshíwǔ, 7:25 am, https://translate.google.co.uk/?um=1&ie=UTF-8&hl=en&client=tw-ob#zh-CN/en/%E6%97%A9%E4%B8%8A%E4%B8%83%E7%82%B9%E4%BA%8C%E5%8D%81%E4%BA%94
