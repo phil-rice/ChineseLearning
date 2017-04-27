@@ -1,0 +1,27 @@
+[Phrases]
+那是什么 Nà shì shénme, What is that?,https://translate.google.co.uk/?ion=1&espv=2&bav=on.2,or.&biw=960&bih=526&dpr=1.75&um=1&ie=UTF-8&hl=en&client=tw-ob#zh-CN/en/%E9%82%A3%E6%98%AF%E4%BB%80%E4%B9%88
+那是安全警报 Nà shì ānquán jǐngbào,https://translate.google.co.uk/?ion=1&espv=2&bav=on.2,or.&biw=960&bih=526&dpr=1.75&um=1&ie=UTF-8&hl=en&client=tw-ob#zh-CN/en/%E9%82%A3%E6%98%AF%E5%AE%89%E5%85%A8%E8%AD%A6%E6%8A%A5
+这里不安全吗 Zhèlǐ bù ānquán ma,https://translate.google.co.uk/?ion=1&espv=2&bav=on.2,or.&biw=960&bih=526&dpr=1.75&um=1&ie=UTF-8&hl=en&client=tw-ob#zh-CN/en/%E8%BF%99%E9%87%8C%E4%B8%8D%E5%AE%89%E5%85%A8%E5%90%97
+意思是 meaning is,https://translate.google.co.uk/?ion=1&espv=2&bav=on.2,or.&biw=960&bih=526&dpr=1.75&um=1&ie=UTF-8&hl=en&client=tw-ob#zh-CN/en/%E6%84%8F%E6%80%9D%E6%98%AF
+不不不 Bù bù bù, no, https://translate.google.co.uk/?ion=1&espv=2&bav=on.2,or.&biw=960&bih=526&dpr=1.75&um=1&ie=UTF-8&hl=en&client=tw-ob#zh-CN/en/%E4%B8%8D%E4%B8%8D%E4%B8%8D
+现在 Xiànzài, Now or 'just now', https://translate.google.co.uk/?ion=1&espv=2&bav=on.2,or.&biw=960&bih=526&dpr=1.75&um=1&ie=UTF-8&hl=en&client=tw-ob#zh-CN/en/%E7%8E%B0%E5%9C%A8
+非常 Fēicháng,very much/extremely, https://translate.google.co.uk/?ion=1&espv=2&bav=on.2,or.&biw=960&bih=526&dpr=1.75&um=1&ie=UTF-8&hl=en&client=tw-ob#zh-CN/en/%E9%9D%9E%E5%B8%B8
+
+[suggestions]
+那是我的 Nà shì wǒ de, That's mine, https://translate.google.co.uk/?ion=1&espv=2&bav=on.2,or.&biw=960&bih=526&dpr=1.75&um=1&ie=UTF-8&hl=en&client=tw-ob#zh-CN/en/%E9%82%A3%E6%98%AF%E6%88%91%E7%9A%84
+意思是我很忙 Yìsi shì wǒ hěn máng,'what I mean is' I'm very busy
+
+----
+
+Discussions
+===========
+
+意思是 Yìsi shì
+
+You can use this to mean 'what I mean is'
+
+You can also use
+
+
+不好意思 Bù hǎoyìsi, 'Bad one', Sorry
+
